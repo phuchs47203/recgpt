@@ -10,6 +10,9 @@ const Menu = () => (
     <p><a href="#possibility">Open AI</a></p>
     <p><a href="#feature">Case Studies</a></p>
     <p><a href="#blog">Library</a></p>
+
+    {/* <p><a href="#possibility">Open AI</a></p>
+    <p><a href="#feature">Case Studies</a></p> */}
   </>
 )
 const Navbar = () => {
